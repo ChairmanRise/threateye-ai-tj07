@@ -1,4 +1,4 @@
-# 
+# VIP ThreatEye paquete. Descarga e instala con código abierto y modo sin conexión — rápido, seguro y fácil de usar.
 
 
 
